@@ -1,9 +1,9 @@
-![My own Portfolio Website](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+![My own Portfolio Website](https://github.com/Nagsenwaghmare/nagsen.github.io/blob/master/images/Nagsen%20portfolio%20website.png)
 
-## <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
+## <a href="https://nagsenwaghmare.github.io/nagsen.github.io/">LIVE DEMO</a>
 
 
 ## Description
-This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever
-## Contributions
-## <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
+This is a Javascript based personal porfolio website template. 
+## Contributors
+## <a href="https://github.com/Nagsenwaghmare">Nagsenwaghmare</a>
